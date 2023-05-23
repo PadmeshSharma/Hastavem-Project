@@ -40,7 +40,7 @@ Handloom refers to wooden frames of different types which are used by skilled ar
 - > Not only this but through device can check which material is pure.
 - > Other than these, this site provides small handloom workers to put up their business on this site and get their extravagant hand-made materials to the masses and let the foreigners know our culture.
 
-<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Smart%20Art.png" height="250px" width ="500px">
+<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Smart%20Art.png" height="250px" width ="200%">
 
 ## History of Handlooms:
 
@@ -79,7 +79,7 @@ Handloom refers to wooden frames of different types which are used by skilled ar
 * In india there are different styles of weaving in different parts of the country, and sometimes in the same region there could be as wide a range as 20- 30 varied styles.
 
 ### WE BANASTHALITES PROMOTES KHADI 
-<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Banasthali%20LOGO.png" width="30%" align="left">
+<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Banasthali%20LOGO.png" width="35%%" align="left">
 <img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Banasthali%20Dress.png" width="60%" align="right">
 
 ### M.K.GANDHI ON KHADI : 
