@@ -7,7 +7,7 @@
 
 <p align="center">About the project:</p>
 <p align="center">
-    <img src="https://img.shields.io/github/PadmeshSharma/Vasas-Project"> 
+    <img src="https://img.shields.io/github/issues/PadmeshSharma/Vasas-Project"> 
     <img src="https://img.shields.io/github/issues-pr/PadmeshSharma/Vasas-Project">
     <img src="https://img.shields.io/github/forks/PadmeshSharma/Vasas-Project">
     <img src="https://img.shields.io/github/stars/PadmeshSharma/Vasas-Project">
