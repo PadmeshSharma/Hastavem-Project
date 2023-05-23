@@ -215,7 +215,7 @@ Thanks a lot for spending your time helping Vasas grow. Thanks a lot! Keep rocki
 
 ## License 🛡️ 
 
-PetMe is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Vasas is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Socials 
 
