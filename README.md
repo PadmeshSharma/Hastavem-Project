@@ -109,14 +109,14 @@ You can refer to the following articles on the basics of Git and Github.
 ## Contributing 👨‍💻 
 
 ### 💥 How to contribute
-- Take a look at the existing [Issues](https://github.com/akshitagupta15june/PetMe/issues) or [create a new issue](https://github.com/akshitagupta15june/PetMe/issues/new/choose)!
-- [Fork the Repo](https://github.com/Susmita-Dey/all-round-calculator/fork). Then, create a branch for any issue that you are working on. Finally, commit your work.
-- Create a **[Pull Request](https://github.com/akshitagupta15june/PetMe/compare)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
+- Take a look at the existing [Issues](https://github.com/PadmeshSharma/Vasas-Project/issues) or [create a new issue](https://github.com/PadmeshSharma/Vasas-Project/issues/new/choose)!
+- [Fork the Repo](https://github.com/__/fork). Then, create a branch for any issue that you are working on. Finally, commit your work.
+- Create a **[Pull Request](https://github.com/PadmeshSharma/Vasas-Project/compare)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
 - Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes proposed in your PR.
 - **DON'T CREATE PRs WITHOUT CREATING ISSUE AND GETTING ASSIGNED**
 
 ### ⭐ How to make a pull request (PR)
-**1.** Start by making a Fork of the [**PetMe**](https://github.com/akshitagupta15june/PetMe/) repository. Click on the <a href="https://github.com/akshitagupta15june/PetMe/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
+**1.** Start by making a Fork of the [**Vasas**](https://github.com/PadmeshSharma/Vasas-Project) repository. Click on the <a href="https://github.comPadmeshSharma/Vasas-Project/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
 
 **2.** Clone your new fork of the repository in the terminal/CLI on your computer with the following command:
 
@@ -171,30 +171,30 @@ git push origin YourBranchName
 
 **10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
-**11.** **Congratulations!** You've made your first contribution to [**PetMe**](https://github.com/akshitagupta15june/PetMe/graphs/contributors)! 🙌🏼
+**11.** **Congratulations!** You've made your first contribution to [**Vasas**](https://github.com/PadmeshSharma/graphs/contributors)! 🙌🏼
 
 #### For more details, refer to [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-## 😎 Project Maintainers
+## 😎 Project Collaborators
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/Susmita-Dey"><img src="https://avatars.githubusercontent.com/u/79099734?v=4" width="100px;" alt=""/><br /><sub><b>Susmita Dey</b></sub></a></td>
+<td align="center"><a href="https://github.com/mansigupta2309"><img src="https://avatars.githubusercontent.com/u/79099734?v=4" width="100px;" alt=""/><br /><sub><b>Mansi Gupta</b></sub></a></td>
 
-<td align="center"><a href="https://github.com/akshitagupta15june"><img src="https://avatars0.githubusercontent.com/u/57909583?v=4" width="100px;" alt=""/><br /><sub><b>Akshita Gupta</b></sub></a></td>
- 
-<td align="center"><a href="https://github.com/muditchoudhary"><img src="https://avatars.githubusercontent.com/u/74391865?s=400&u=2944cf6cb540e3ba3a08653225406d0826e1c272&v=4" width="100px;" alt=""/><br /><sub><b>Mudit Choudhary</b></sub></a></td>
+<td align="center"><a href="https://github.com/PadmeshSharma"><img src="https://avatars.githubusercontent.com/u/74391865?s=400&u=2944cf6cb540e3ba3a08653225406d0826e1c272&v=4" width="100px;" alt=""/><br /><sub><b>Padmesh sharma</b></sub></a></td>
    
-<td align="center"><a href="https://github.com/akshaaatt"><img src="https://avatars.githubusercontent.com/u/51470769?v=4" width="100px;" alt=""/><br /><sub><b>Akshat Tiwari</b></sub></a></td>
+<td align="center"><a href="https://github.com/Pakhi-ch"><img src="https://avatars0.githubusercontent.com/u/57909583?v=4" width="100px;" alt=""/><br /><sub><b>Pakhi Chaturvedi</b></sub></a></td>
+ 
+<td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/51470769?v=4" width="100px;" alt=""/><br /><sub><b>Poorvi Sharma</b></sub></a></td>
    
  </tr>
 </table>
 
 ## Thanks to all Contributors 💪 
 
-Thanks a lot for spending your time helping PetMe grow. Thanks a lot! Keep rocking 🍻
+Thanks a lot for spending your time helping Vasas grow. Thanks a lot! Keep rocking 🍻
 
-[![Contributors](https://contrib.rocks/image?repo=akshitagupta15june/PetMe)](https://github.com/akshitagupta15june/PetMe/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=PadmeshSharma/Vasas-Project)](https://github.com/PadmeshSharma/Vasas-Project/graphs/contributors)
 
 ## License 🛡️ 
 
@@ -202,5 +202,5 @@ PetMe is licensed under the MIT License - see the [LICENSE](LICENSE) file for de
 
 ## Socials 
 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="80"/>](https://github.com/akshitagupta15june/PetMe)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="80"/>](https://github.com/PadmeshSharma/Vasas-Project)
 
