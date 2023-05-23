@@ -136,7 +136,7 @@ You can refer to the following articles on the basics of Git and Github.
 **2.** Clone your new fork of the repository in the terminal/CLI on your computer with the following command:
 
 ```bash
-git clone https://github.com/<your-github-username>/PetMe
+git clone https://github.com/<your-github-username>/Vasas-Project/
 ```
 
 **3.** Navigate to the newly created PetMe project directory:
@@ -148,7 +148,7 @@ cd PetMe
 **4.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/Susmita-Dey/PetMe.git
+git remote add upstream https://github.com/__/Vasas-Project/.git
 ```
 
 **5.** Create a new branch:
