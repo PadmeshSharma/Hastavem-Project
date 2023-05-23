@@ -1,0 +1,196 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            .bg-img {
+                /* The image used */
+                background-image: url("vas.jpeg");
+            min-width: 100%;  
+                min-height: 380px;
+              
+                /* Center and scale the image nicely */
+                background-position: top;
+                background-repeat: no-repeat;
+                background-size: cover;
+                
+                
+                /* Needed to position the navbar */
+                position: relative;
+              }
+              
+              /* Style tab links */
+.tablink {
+    background-color:#1e7c9a ;
+    
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-left: 1px;
+    white-space: nowrap;
+    font-size: 17px;
+    width: 23%;
+    color: #ffffff;
+    border-top: 1px solid #ffffff;
+    padding: 4px 14px 4px 14px;
+  }
+
+  .tablink:hover {
+    background-color: #777;
+  }
+
+  .tabcontent {
+    color: rgb(0, 0, 0);
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+  }
+
+  .active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .tablink .icon {
+    display: none;
+  }
+  
+/dropdown menu/
+  .dropdown {
+    float: right;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 17px;    
+    border: none;
+    outline: none;
+    color: #ffffff;
+    padding: 4px 14px 4px 14px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #1e7c9a;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 100px 20px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+
+  
+  .tablink a:hover, .dropdown:hover .dropbtn {
+    background-color: #000000;
+    color: white;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  @media screen and (max-width: 600px) {
+    .tablink a:not(:first-child), .dropdown .dropbtn {
+      display: none;
+    }
+    .tablink a.icon {
+      float: right;
+      display: block;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .tablink.responsive {position: absolute;}
+    .tablink.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .tablink.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    .tablink.responsive .dropdown {float: none;}
+    .tablink.responsive .dropdown-content {position: absolute;}
+    .tablink.responsive .dropdown .dropbtn {
+      display: block;
+      width: 100%;
+      text-align: left;
+    }
+  }
+
+        </style>
+    </head>
+    <body >
+        <div class="bg-img">
+        </div>
+        <button class="tablink" onclick="openPage('Home', this, 'rgb(167, 75, 125)')" id="defaultOpen">Home</button>
+<button class="tablink" onclick="openPage('About', this, 'green')" >About</button>
+<button class="tablink" onclick="openPage('Material', this, 'rgb(255, 132, 0)')">Material</button>
+<button class="tablink" onclick="openPage('Contact', this, 'rgb(141, 134, 9)')">Contact</button>
+
+
+<div id="Home" class="tabcontent">
+    
+ 
+</div>
+
+<div id="About" class="tabcontent">
+    
+  </div>
+
+  <div id="About" class="tablink">
+<button class="tablink" onclick="openPage('Sustainable Fashion', this, 'green')" >Sustainable Fashion</button>
+<button class="tablink" onclick="openPage('handmade vs homemade', this, 'rgb(255, 132, 0)')">handmade vs homemade</button>
+<button class="tablink" onclick="openPage('Fabrics used', this, 'rgb(141, 134, 9)')">Fabrics used</button>
+
+    
+  </div>
+
+  <div id="Material"class="dropdown-content" >
+
+  </div>
+
+  <div id="Contact" class="tabcontent">
+    <h3>Contact</h3>
+    <p>Get in touch, or swing by for a cup of coffee.</p>
+  </div>
+<script>
+  function openPage(pageName,elmnt,color) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablink");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].style.backgroundColor = "";
+    }
+    document.getElementById(pageName).style.display = "block";
+    elmnt.style.backgroundColor = color;
+  }
+  
+  // Get the element with id="defaultOpen" and click on it
+  document.getElementById("defaultOpen").click();
+  </script>
+
+    </body>
+</html>
