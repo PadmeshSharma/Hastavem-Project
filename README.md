@@ -1,18 +1,18 @@
 ## Open Source Programs
 <p align="center"> Vasas is ready for WIEHACK 4.0</p>
  <a href="https://portal.bvpieee.in/">
- <img width="1200" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/79099734/189589410-ca17afb8-5855-4316-918a-054f27594809.png">
+ <img width="1200" alt="Email Banners-Dark" src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/We%20Hack.png">
  </a>
 -----
 
 
 <p align="center">About the project:</p>
 <p align="center">
-    <img src="https://img.shields.io/github/issues/akshitagupta15june/PetMe"> 
-    <img src="https://img.shields.io/github/issues-pr/akshitagupta15june/PetMe">
-    <img src="https://img.shields.io/github/forks/akshitagupta15june/PetMe">
-    <img src="https://img.shields.io/github/stars/akshitagupta15june/PetMe">
-    <img src="https://img.shields.io/github/license/akshitagupta15june/PetMe">
+    <img src="https://img.shields.io/github/PadmeshSharma/Vasas-Project"> 
+    <img src="https://img.shields.io/github/issues-pr/PadmeshSharma/Vasas-Project">
+    <img src="https://img.shields.io/github/forks/PadmeshSharma/Vasas-Project">
+    <img src="https://img.shields.io/github/stars/PadmeshSharma/Vasas-Project">
+    <img src="https://img.shields.io/github/license/PadmeshSharma/Vasas-Project">
 </p>
 
 <p align="center">Tech Stack:</p>
@@ -25,37 +25,69 @@
 
 # Vāsas: The Handloom
 
+<p align="center">
+  <img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Vasas.jpg" height="250px">
+  </p>
+
 ### Agenda:
 To create a website that spread awareness about Handloom materials and help people have better employment opportunities of Handlooms.
 
+## Introduction:
+
+Handloom refers to wooden frames of different types which are used by skilled artisans to weave fabrics usually from natural fibers like Cotton, Silk, Wool, Jute etc. It is a cottage industry  involved in the production of cloth. Right from spinning the yarn, colouring, to weaving on the loom is done by them. Fabric produced from these looms is also referred to as Handloom. The tools required for this entire process are made from wood, sometimes bamboo and they do not require any electricity to run them. The entire process of fabric production was totally manual in earlier times. Thus this is the most eco-friendly way of producing clothes. 
 - > Vasas is a Sanskrit name for Handloom.
 - > In today's world, to get a pure and an authentic material is impossible because there is mixing.  Our Aim is to get the knowledge of right material.​
-- > Not only this but through device can check which material is pure.​
-- > Other than these, this site pro
+- > Not only this but through device can check which material is pure.
+- > Other than these, this site provides small handloom workers to put up their business on this site and get their extravagant hand-made materials to the masses and let the foreigners know our culture.
 
+<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Smart%20Art.png" height="250px">
 
+## History of Handlooms:
 
-# PetMe
+###### Early Days. 
+* Indian Handloom dates back to the Indus valley civilization. Even in ancient times, Indian fabrics were exported, Rome, Egypt and China. 
 
-<p align="center">
-  <img src="./Assets/Images/logo.jpg" height="250px">
-  </p>
+* In earlier times, almost every village had its own weavers who made all the clothing requirements needed by the villagers like sarees, dhotis, etc. Everything was 
+* Hand-Spun and Hand-Woven. Traditionally, the entire process of cloth making was self-reliant. 
 
-<p align="center"> Join our official <a href="https://discord.gg/X3HZAPzykU">Discord Channel</a> for discussion and updates. </p>
+* The cotton / silk / wool came from the farmers, foresters or shepherds, and the cotton was cleaned and transformed by weavers themselves or agricultural labour community. 
 
+* Small handy instruments were used in the process, including the famous spinning wheel (also known as Charkha). This hand spun yarn was later made into cloth on the handloom by the weavers. 
 
-## Inspiration for the Project:
+###### During British Rule: Decline of Handloom
 
-It has been estimated that more than one million adoptable dogs and cats are euthanized in the United States each year. This happens for the reason that there are too many pets that are enrolled into shelters and only a few people consider adoption when they look out for a pet.
+* India was turned into an exporter of raw cotton and the country was flooded with machine made imported yarn. To increase consumption of this yarn, British authorities resorted to violence and coercion. Summarily, this resulted in a complete loss of livelihoods first for the spinners, and dependence of handloom weavers on machine yarn. When yarn came from a distance and had to be bought, yarn dealers and financiers became necessary. And as the average weaver had little credit, the industry fell more and more into the grip of middlemen. thus the independence of most weavers disappeared, and a great majority of them came to work for a Trader on contract/ wage basis. 
 
-**The number of euthanized animals can be reduced drastically if more people adopt pets instead of buying them from stores. When you adopt an animal, you save a lovely life by making them a part of your family as well as open up a shelter space for an animal who might be in need of one desperately.**
+* Despite this Indian handloom sustained itself, until World War 1 when imported machine made clothes flooded the Indian Market. The beginning of Powerlooms in the 1920’s, and the consolidation of the mills and the high cost of yarn, made an unfair competition that led to the decline of Handloom. Revival of Handloom. 
 
-When the team heard about the animals that were getting in danger each year, it became a goal for us to help these speechless beings somehow. After brainstorming for a long time we came up with the idea of **PetMe**. We believe in the policy of saving animals and thus saving lives. Every life matters and we wish to be the part of the change that is making the same possible.
+* Mahatama Gandhi started the Swadeshi Movement and reintroduced hand spinning in the name of Khadi which essentially means hand spun and hand woven. Every Indian was urged to spin the yarn using Charkhas and wear Khadi. This led to the closure of the Mills in Manchester and huge turning point in the Indian independence movement. People burnt imported clothes and chose to wear Khadi.
 
+###### Post-Independence
 
-## Features of PetMe at a Glance
+* Textile mills and spinning mills continued to function in india. Today, there are many weaving styles that use machine spun yarn and these fabrics are referred to as handloom. And fabrics made from handspun yarn are called khadi fabrics.
 
-<a href="https://akshitagupta15june.github.io/PetMe/"><p align="center">The test site for the project can be found here.</p></a>
+* Though the textile and spinning mills continued in independent india, handloom / khadi were given a lot of protection from unfair competition. Thus the fabric was widely used and affordable for everyone. 
+
+* Since 1985, and especially post 90’s liberalisation, handloom sector had to face competition from cheap imports, and design imitations from powerlooms. In addition government funding and policy protection also declined drastically. Also the cost of natural fiber yarn has increased tremendously. 
+
+* In comparison to artificial fiber, the cost of natural fabric has gone up. This makes it unaffordable for the common people. But the wages of handloom weavers have remained frozen for the past decade or two. 
+
+* Unable to compete with cheaper poly-mixed fabrics, many weavers are quitting weaving and going for unskilled labour work. And many have been reduced to extreme poverty. 
+
+* Handloom is timeless. Handloom is a beautiful fabric and special as no two fabrics can be alike. Of course the output depends on the skill set of the weaver. But even if we make two weavers with similar skills weave the same fabric it will be different in one way or the other. Each fabric is a reflection of the weaver’s moods – when a weaver is angry the fabric would be little tight while it would be lose when he is sad. Thus each piece is unique in itself. 
+
+* In india there are different styles of weaving in different parts of the country, and sometimes in the same region there could be as wide a range as 20- 30 varied styles.
+
+### WE BANASTHALITES PROMOTES KHADI 
+<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Banasthali%20LOGO.png" width="50%">
+<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Banasthali%20Dress.png" width="50%">
+
+### M.K.GANDHI ON KHADI : 
+<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Gandhi.png" width="50%">
+
+## Features of Vasas at glance
+
+<a href="https://PadmeshSharma.github.io/Vasas-Project/"><p align="center">The test site for the project can be found here.</p></a>
 
 
 | Function | Feature | Image |
@@ -195,6 +227,7 @@ git push origin YourBranchName
 Thanks a lot for spending your time helping Vasas grow. Thanks a lot! Keep rocking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=PadmeshSharma/Vasas-Project)](https://github.com/PadmeshSharma/Vasas-Project/graphs/contributors)
+
 
 ## License 🛡️ 
 
