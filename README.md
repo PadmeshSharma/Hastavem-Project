@@ -192,23 +192,24 @@ git push origin YourBranchName
 
 ## 😎 Project Contributors
 Thanks a lot for spending your time helping Vasas grow. Thanks a lot! Keep rocking 🍻
-[![Contributors](https://contrib.rocks/image?repo=PadmeshSharma/Vasas-Project)](https://github.com/PadmeshSharma/Vasas-Project/graphs/contributors)
+
 <table>
   <tr>
 <td align="center"><a href="https://github.com/mansigupta2309"><img src="__" width="100px;" alt=""/><br /><sub><b>Mansi Gupta</b></sub></a></td>
 
 <td align="center"><a href="https://github.com/PadmeshSharma"><img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/c.jpg" width="100px;" alt=""/><br /><sub><b>Padmesh sharma</b></sub></a></td>
    
-<td align="center"><a href="https://github.com/Pakhi-ch"><img src="__" width="100px;" alt=""/><br /><sub><b>Pakhi Chaturvedi</b></sub></a></td>
+<td align="center"><a href="https://github.com/Pakhi-ch"><img src=" __" width="100px;" alt=""/><br /><sub><b>Pakhi Chaturvedi</b></sub></a></td>
  
-<td align="center"><a href="https://github.com/"><img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/README.md" width="100px;" alt=""/><br /><sub><b>Poorvi Sharma</b></sub></a></td>
+<td align="center"><a href="https://github.com/"><img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Poorvi.jpg" width="100px;" alt=""/><br /><sub><b>Poorvi Sharma</b></sub></a></td>
    
  </tr>
 </table>
 
 
+## Contributions made
 
-
+[![Contributors](https://contrib.rocks/image?repo=PadmeshSharma/Vasas-Project)](https://github.com/PadmeshSharma/Vasas-Project/graphs/contributors)
 
 
 
