@@ -40,7 +40,7 @@ Handloom refers to wooden frames of different types which are used by skilled ar
 - > Not only this but through device can check which material is pure.
 - > Other than these, this site provides small handloom workers to put up their business on this site and get their extravagant hand-made materials to the masses and let the foreigners know our culture.
 
-<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Smart%20Art.png" height="250px" width ="200%">
+<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Smart%20Art.png" height="100%" width ="200%">
 
 ## History of Handlooms:
 
@@ -85,6 +85,11 @@ Handloom refers to wooden frames of different types which are used by skilled ar
 ### M.K.GANDHI ON KHADI : 
 <img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Gandhi.png" width="50%">
 
+
+“ Like swaraj , khadi our birth right and it is our life long duty to use that only. Anyone who does not fulfill that duty is totally ignorant of what swaraj is.” 
+
+“We cannot claim to have understood the meaning of swaraj till khadi becomes as universal as currency.”
+
 ## Features of Vasas at glance
 
 <a href="https://PadmeshSharma.github.io/Vasas-Project/"><p align="center">The test site for the project can be found here.</p></a>
@@ -92,40 +97,19 @@ Handloom refers to wooden frames of different types which are used by skilled ar
 
 | Function | Feature | Image |
 | --- | ----------- | -------|
-| Adopting a Pet | Allows user to choose an animal they wish to adopt and submit their details for contact purposes | ![image](https://user-images.githubusercontent.com/99717469/193424761-4c7f510f-b099-4e48-b0c8-d09eece32469.png) |
-| Donating a Pet | Pet owners can donate their pets if they are unable to take care of the ones they have | ![image](https://user-images.githubusercontent.com/99717469/193424675-328e10ed-78f8-49bf-8fa6-68d0db4a7fd1.png) |
-| Emergency care for Stray Animals | Provide contact details to get emergency medical services | ![image](https://user-images.githubusercontent.com/99717469/193424731-fa82b5a9-8c01-4648-a378-7c23bfb20427.png) |
+| Indian Traditions and culture | Spreading the awareness about Indian handlooms | ![image](https://github.com/PadmeshSharma/Vasas-Project/blob/main/Indian.png) |
+| Business | Promoting the business of local shopkeeper to improve economy.​ | ![image](https://github.com/PadmeshSharma/Vasas-Project/blob/main/Business.png) |
+| Detection | Usage of sensors to detect fabrics. | ![image](https://github.com/PadmeshSharma/Vasas-Project/blob/main/Detection.png) |
 
 ----
 
 
-## Watch the video:
-
-For a brief explanation about PetMe, you can watch the following video.
-
-[<img src="https://i.imgur.com/8gEUuwt.png" width="50%">](https://youtu.be/U1EQjtT-G8E)
- 
-Additional features:
-- All the data is stored in the database so when a person wishes to adopt or donate an animal, their information will be auto-filled using the database. 
-- Users can use the `Contact` page to drop in their details for a call with one of the team members. 
-
-## View our Website:
-
-Click the image below to view our website!
-
-[<img src="https://cdn.discordapp.com/attachments/1004464884773306368/1028310089364406363/unknown.png"/>](https://akshitagupta15june.github.io/PetMe/)
-
-## Accomplishments:
-
-We are proud to build a website where pet lovers can easily adopt animals that need a home. They can not only provide medical assistance to them but can also allow their comrades in the community to adopt them.
 
 ## What's next for PetMe 📲
 
-In future, we plan to scale this application to reach as many people as possible and facilitate adoption and donation of animals.
+In future, we plan to scale this application to reach as many people as possible and facilitate business and detection of Handlooms.
 
-Furthermore, we plan to connect with the nearest government organization that provides medical assistance to stray animals.
-
----
+Furthermore, we plan to connect with the villages or towns that are into Handlooms production for employment.
 
 ## ⭐ How to get started with open source?
 <img src="https://github.com/Vi1234sh12/Face-X/blob/master/.github/Assests/isometric.png" height="290px" align="right"/>
