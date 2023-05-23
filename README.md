@@ -142,7 +142,7 @@ git clone https://github.com/<your-github-username>/Vasas-Project/
 **3.** Navigate to the newly created PetMe project directory:
 
 ```bash
-cd PetMe
+cd Vasas-Project
 ```
 
 **4.** Set upstream command:
@@ -194,13 +194,13 @@ git push origin YourBranchName
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/mansigupta2309"><img src="https://avatars.githubusercontent.com/u/79099734?v=4" width="100px;" alt=""/><br /><sub><b>Mansi Gupta</b></sub></a></td>
+<td align="center"><a href="https://github.com/mansigupta2309"><img src="__" width="100px;" alt=""/><br /><sub><b>Mansi Gupta</b></sub></a></td>
 
-<td align="center"><a href="https://github.com/PadmeshSharma"><img src="https://avatars.githubusercontent.com/u/74391865?s=400&u=2944cf6cb540e3ba3a08653225406d0826e1c272&v=4" width="100px;" alt=""/><br /><sub><b>Padmesh sharma</b></sub></a></td>
+<td align="center"><a href="https://github.com/PadmeshSharma"><img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/c.jpg" width="100px;" alt=""/><br /><sub><b>Padmesh sharma</b></sub></a></td>
    
-<td align="center"><a href="https://github.com/Pakhi-ch"><img src="https://avatars0.githubusercontent.com/u/57909583?v=4" width="100px;" alt=""/><br /><sub><b>Pakhi Chaturvedi</b></sub></a></td>
+<td align="center"><a href="https://github.com/Pakhi-ch"><img src="__" width="100px;" alt=""/><br /><sub><b>Pakhi Chaturvedi</b></sub></a></td>
  
-<td align="center"><a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/51470769?v=4" width="100px;" alt=""/><br /><sub><b>Poorvi Sharma</b></sub></a></td>
+<td align="center"><a href="https://github.com/"><img src="__" width="100px;" alt=""/><br /><sub><b>Poorvi Sharma</b></sub></a></td>
    
  </tr>
 </table>
