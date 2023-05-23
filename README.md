@@ -1,6 +1,4 @@
-# Vāsas-Project
-
-## Vasas: The Handloom
+# Vāsas: The Handloom
 
 ### Agenda:
 To create a website that spread awareness about Handloom materials and help people have better employment opportunities of Handlooms.
