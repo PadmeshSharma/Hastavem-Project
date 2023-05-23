@@ -190,8 +190,9 @@ git push origin YourBranchName
 
 #### For more details, refer to [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-## 😎 Project Collaborators
-
+## 😎 Project Contributors
+Thanks a lot for spending your time helping Vasas grow. Thanks a lot! Keep rocking 🍻
+[![Contributors](https://contrib.rocks/image?repo=PadmeshSharma/Vasas-Project)](https://github.com/PadmeshSharma/Vasas-Project/graphs/contributors)
 <table>
   <tr>
 <td align="center"><a href="https://github.com/mansigupta2309"><img src="__" width="100px;" alt=""/><br /><sub><b>Mansi Gupta</b></sub></a></td>
@@ -200,16 +201,15 @@ git push origin YourBranchName
    
 <td align="center"><a href="https://github.com/Pakhi-ch"><img src="__" width="100px;" alt=""/><br /><sub><b>Pakhi Chaturvedi</b></sub></a></td>
  
-<td align="center"><a href="https://github.com/"><img src="__" width="100px;" alt=""/><br /><sub><b>Poorvi Sharma</b></sub></a></td>
+<td align="center"><a href="https://github.com/"><img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/README.md" width="100px;" alt=""/><br /><sub><b>Poorvi Sharma</b></sub></a></td>
    
  </tr>
 </table>
 
-## Thanks to all Contributors 💪 
 
-Thanks a lot for spending your time helping Vasas grow. Thanks a lot! Keep rocking 🍻
 
-[![Contributors](https://contrib.rocks/image?repo=PadmeshSharma/Vasas-Project)](https://github.com/PadmeshSharma/Vasas-Project/graphs/contributors)
+
+
 
 
 ## License 🛡️ 
