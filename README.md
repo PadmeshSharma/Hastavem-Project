@@ -104,7 +104,7 @@ Handloom refers to wooden frames of different types which are used by skilled ar
 
 
 
-## What's next for PetMe 📲
+## What's next for Vasas 📲
 
 In future, we plan to scale this application to reach as many people as possible and facilitate business and detection of Handlooms.
 
