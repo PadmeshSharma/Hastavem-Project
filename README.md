@@ -40,7 +40,7 @@ Handloom refers to wooden frames of different types which are used by skilled ar
 - > Not only this but through device can check which material is pure.
 - > Other than these, this site provides small handloom workers to put up their business on this site and get their extravagant hand-made materials to the masses and let the foreigners know our culture.
 
-<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Smart%20Art.png" height="250px">
+<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Smart%20Art.png" height="250px" width ="500px>
 
 ## History of Handlooms:
 
