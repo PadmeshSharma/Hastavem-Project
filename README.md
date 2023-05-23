@@ -79,8 +79,8 @@ Handloom refers to wooden frames of different types which are used by skilled ar
 * In india there are different styles of weaving in different parts of the country, and sometimes in the same region there could be as wide a range as 20- 30 varied styles.
 
 ### WE BANASTHALITES PROMOTES KHADI 
-<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Banasthali%20LOGO.png" width="50%" align="left">
-<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Banasthali%20Dress.png" width="50%" align="right">
+<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Banasthali%20LOGO.png" width="30%" align="left">
+<img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Banasthali%20Dress.png" width="60%" align="right">
 
 ### M.K.GANDHI ON KHADI : 
 <img src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/Gandhi.png" width="50%">
