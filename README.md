@@ -1,9 +1,4 @@
 ## Open Source Program
-<p align="center"> Vasas is ready for WIEHACK 4.0</p>
- <a href="https://portal.bvpieee.in/">
- <img width="1200" alt="Email Banners-Dark" src="https://github.com/PadmeshSharma/Vasas-Project/blob/main/We%20Hack.png">
- </a>
-
 
 <p align="center">About the project:</p>
 <p align="center">
