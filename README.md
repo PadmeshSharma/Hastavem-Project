@@ -204,6 +204,8 @@ Thanks a lot for spending your time helping Vasas grow. Thanks a lot! Keep rocki
 
 ## Contributions made
 
+### Show some ❤️ by starring <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> this awesome repository!
+
 [![Contributors](https://contrib.rocks/image?repo=PadmeshSharma/Vasas-Project)](https://github.com/PadmeshSharma/Vasas-Project/graphs/contributors)
 
 
